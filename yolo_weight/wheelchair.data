@@ -1,0 +1,6 @@
+classes= 2
+train  = /home/jovyan/yolo_data/train.txt
+valid  = /home/jovyan/yolo_data/val.txt
+names = ../opt/yolo_weight/wheelchair.names
+backup = /home/jovyan/yolo_data/pose_backup
+
